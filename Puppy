@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Puppy Page</title>
+</head>
+
+<body>
+
+    <h1>Welcome to my Website!</h1>
+
+    <p>I'm excited to code!</p>
+
+    <a href="https://classroom.google.com">Here is a link to google classroom</a>
+
+    <p>Here is a picture of a Puppy</p>
+
+    <img src="puppy.jpg" alt="Puppy" width="240">
+
+    <p>Here are three reasons pizza is great</p>
+
+    <ol>
+        <li>Not expensive</li>
+        <li>Lots of toppings</li>
+        <li>Good for sharing</li>
+    </ol>
+
+    <h2>Challenge!</h2>
+
+    <p>Can you figure out how to make a picture a link?</p>
+
+    <a href="https://www.google.com">
+        <img src="giraff.jpg" alt="Giraffe" width="200">
+    </a>
+
+</body>
+
+</html>
